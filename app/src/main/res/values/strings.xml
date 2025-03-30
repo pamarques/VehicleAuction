@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vehicle Auction</string>
+    <string name="loading_cars">Loading cars</string>
+    <string name="model">Model</string>
+    <string name="make">Make</string>
+    <string name="start_bid">Starting Bid Value</string>
+    <string name="end_bid">End Bid Value</string>
+    <string name="range_format">Bid range between %s€ and %s€</string>
+    <string name="car_list_title">Cars found</string>
+    <string name="no_cars">No cars to present</string>
+    <string name="see_favourites">Show my Favourites</string>
+    <string name="search">Search Cars</string>
+    <string name="favourites_list_title">Favourites</string>
+    <string name="remove_favourite">Car removed from favourites</string>
+    <string name="add_favourite">Car added to favourites</string>
+    <string name="cars_for_auction_title">Cars for Auction</string>
+    <string name="search_description">Here you can search for cars for action:</string>
+    <string name="number_of_cars_per_page">Select the number of vehicles per page:</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="miles_format">%s miles</string>
+    <string name="year">Year</string>
+    <string name="miles">Miles</string>
+    <string name="fuel_type">Fuel type</string>
+    <string name="engine_size">Engine Size</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="colour">Colour</string>
+    <string name="transmission">Transmission type</string>
+    <string name="number_of_doors">Number of Doors</string>
+    <string name="co2Emissions">CO2 Emissions</string>
+    <string name="noxEmissions">Nox Emissions</string>
+    <string name="numberOfKeys">Number of Keys</string>
+</resources>
